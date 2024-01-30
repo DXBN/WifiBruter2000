@@ -1,0 +1,26 @@
+C:\Users\Guru\Downloads\WiBr-master\WiBf\bin\Debug\WiBf.exe.config
+C:\Users\Guru\Downloads\WiBr-master\WiBf\bin\Debug\WiBf.exe
+C:\Users\Guru\Downloads\WiBr-master\WiBf\bin\Debug\WiBf.pdb
+C:\Users\Guru\Downloads\WiBr-master\WiBf\bin\Debug\ManagedWifi.dll
+C:\Users\Guru\Downloads\WiBr-master\WiBf\bin\Debug\SimpleWifi.dll
+C:\Users\Guru\Downloads\WiBr-master\WiBf\obj\Debug\WifiInator.csproj.AssemblyReference.cache
+C:\Users\Guru\Downloads\WiBr-master\WiBf\obj\Debug\WifiInator.Form1.resources
+C:\Users\Guru\Downloads\WiBr-master\WiBf\obj\Debug\WifiInator.csproj.GenerateResource.cache
+C:\Users\Guru\Downloads\WiBr-master\WiBf\obj\Debug\WifiInator.csproj.CoreCompileInputs.cache
+C:\Users\Guru\Downloads\WiBr-master\WiBf\obj\Debug\WifiInator.csproj.CopyComplete
+C:\Users\Guru\Downloads\WiBr-master\WiBf\obj\Debug\WiBf.exe
+C:\Users\Guru\Downloads\WiBr-master\WiBf\obj\Debug\WiBf.pdb
+C:\Users\Guru\Downloads\WiBr-master\WiBf\obj\Debug\WIFINATOR.Properties.Resources.resources
+C:\Users\YoungDevil\Downloads\Telegram Desktop\WiBr-master\WiBf\obj\Debug\WifiInator.csproj.AssemblyReference.cache
+C:\Users\YoungDevil\Downloads\Telegram Desktop\WiBr-master\WiBf\obj\Debug\WifiInator.Form1.resources
+C:\Users\YoungDevil\Downloads\Telegram Desktop\WiBr-master\WiBf\obj\Debug\WIFINATOR.Properties.Resources.resources
+C:\Users\YoungDevil\Downloads\Telegram Desktop\WiBr-master\WiBf\obj\Debug\WifiInator.csproj.GenerateResource.cache
+C:\Users\YoungDevil\Downloads\Telegram Desktop\WiBr-master\WiBf\obj\Debug\WifiInator.csproj.CoreCompileInputs.cache
+C:\Users\YoungDevil\Downloads\Telegram Desktop\WiBr-master\WiBf\obj\Debug\WiBf.exe
+C:\Users\YoungDevil\Downloads\Telegram Desktop\WiBr-master\WiBf\obj\Debug\WiBf.pdb
+C:\Users\YoungDevil\Downloads\Telegram Desktop\WiBr-master\WiBf\bin\Debug\WiBf.exe.config
+C:\Users\YoungDevil\Downloads\Telegram Desktop\WiBr-master\WiBf\bin\Debug\WiBf.exe
+C:\Users\YoungDevil\Downloads\Telegram Desktop\WiBr-master\WiBf\bin\Debug\WiBf.pdb
+C:\Users\YoungDevil\Downloads\Telegram Desktop\WiBr-master\WiBf\bin\Debug\ManagedWifi.dll
+C:\Users\YoungDevil\Downloads\Telegram Desktop\WiBr-master\WiBf\bin\Debug\SimpleWifi.dll
+C:\Users\YoungDevil\Downloads\Telegram Desktop\WiBr-master\WiBf\obj\Debug\WifiInator.csproj.CopyComplete

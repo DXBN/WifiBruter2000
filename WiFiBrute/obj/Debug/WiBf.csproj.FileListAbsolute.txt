@@ -1,0 +1,14 @@
+C:\Users\Guru\Downloads\WiBr-master\WiBf\bin\Debug\WiBf.exe.config
+C:\Users\Guru\Downloads\WiBr-master\WiBf\bin\Debug\WiBf.exe
+C:\Users\Guru\Downloads\WiBr-master\WiBf\bin\Debug\WiBf.pdb
+C:\Users\Guru\Downloads\WiBr-master\WiBf\bin\Debug\ManagedWifi.dll
+C:\Users\Guru\Downloads\WiBr-master\WiBf\bin\Debug\SimpleWifi.dll
+C:\Users\Guru\Downloads\WiBr-master\WiBf\obj\Debug\WiBf.csproj.AssemblyReference.cache
+C:\Users\Guru\Downloads\WiBr-master\WiBf\obj\Debug\WiBf.csproj.SuggestedBindingRedirects.cache
+C:\Users\Guru\Downloads\WiBr-master\WiBf\obj\Debug\WiBf.Form1.resources
+C:\Users\Guru\Downloads\WiBr-master\WiBf\obj\Debug\WiBf.Properties.Resources.resources
+C:\Users\Guru\Downloads\WiBr-master\WiBf\obj\Debug\WiBf.csproj.GenerateResource.cache
+C:\Users\Guru\Downloads\WiBr-master\WiBf\obj\Debug\WiBf.csproj.CoreCompileInputs.cache
+C:\Users\Guru\Downloads\WiBr-master\WiBf\obj\Debug\WiBf.csproj.CopyComplete
+C:\Users\Guru\Downloads\WiBr-master\WiBf\obj\Debug\WiBf.exe
+C:\Users\Guru\Downloads\WiBr-master\WiBf\obj\Debug\WiBf.pdb

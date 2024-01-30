@@ -1,0 +1,13 @@
+C:\Users\YoungDevil\Downloads\Telegram Desktop\WiBr-master\WiBf\bin\Debug\Wifi Brute.exe.config
+C:\Users\YoungDevil\Downloads\Telegram Desktop\WiBr-master\WiBf\bin\Debug\Wifi Brute.exe
+C:\Users\YoungDevil\Downloads\Telegram Desktop\WiBr-master\WiBf\bin\Debug\Wifi Brute.pdb
+C:\Users\YoungDevil\Downloads\Telegram Desktop\WiBr-master\WiBf\bin\Debug\ManagedWifi.dll
+C:\Users\YoungDevil\Downloads\Telegram Desktop\WiBr-master\WiBf\bin\Debug\SimpleWifi.dll
+C:\Users\YoungDevil\Downloads\Telegram Desktop\WiBr-master\WiBf\obj\Debug\Wifi Brute.csproj.AssemblyReference.cache
+C:\Users\YoungDevil\Downloads\Telegram Desktop\WiBr-master\WiBf\obj\Debug\WifiInator.Form1.resources
+C:\Users\YoungDevil\Downloads\Telegram Desktop\WiBr-master\WiBf\obj\Debug\WifiBrute.Properties.Resources.resources
+C:\Users\YoungDevil\Downloads\Telegram Desktop\WiBr-master\WiBf\obj\Debug\Wifi Brute.csproj.GenerateResource.cache
+C:\Users\YoungDevil\Downloads\Telegram Desktop\WiBr-master\WiBf\obj\Debug\Wifi Brute.csproj.CoreCompileInputs.cache
+C:\Users\YoungDevil\Downloads\Telegram Desktop\WiBr-master\WiBf\obj\Debug\Wifi Brute.csproj.CopyComplete
+C:\Users\YoungDevil\Downloads\Telegram Desktop\WiBr-master\WiBf\obj\Debug\Wifi Brute.exe
+C:\Users\YoungDevil\Downloads\Telegram Desktop\WiBr-master\WiBf\obj\Debug\Wifi Brute.pdb
